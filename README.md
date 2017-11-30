@@ -1,4 +1,5 @@
 # Sentiment-Analysis
+Using twitter, google trends, FB data to do sentiment analysis, visualizations, and forecasting using ARIMA models for stocks.
 Package: SentAnalysis
 Type: Package
 Title: Portfolio Sentiment Analysis
