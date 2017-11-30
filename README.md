@@ -25,3 +25,5 @@ Author: Sri Subramanian [aut, cph],
   Dengyu Yang [aut, cph]
 Maintainer: Pranay Marella <marella2@illinois.edu>
 Packages: ('quantmod','Rfacebook','stringr','twitteR','ROAuth','httr','plyr', 'ggplot2', 'plotly', 'gtrendsR','forecast','tseries', 'DT')
+
+Note: We need tokens from FB every ten minutes, and yahoo finance data cannot be used as before.
